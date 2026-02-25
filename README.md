@@ -1,18 +1,22 @@
-<h1align="center">Xin chào 👋, tôi là quanghoangtu</h1>
-<h3align="center">Là một sinh viên Bách khoa đang cố gắng nâng cao CPA</h3>
-
-- 🔭 Tôi sinh là thành viên **Bách Khoa**
-
-- 💬 Hỏi tôi về bạn gái của tôi **tên dễ thương là HNH**
-
-- 📫 Làm cách nào để liên hệ với tôi **quangcbh06@gmail.com**
-
-- ⚡ Sự thật thú vị **Tôi là một người hài cười**
-
-<h3align="left">Kết nối với tôi:</h3>
-<palign="left">
+<h1 align="center">Xin chào 👋, tôi là quanghoangtu</h1>
+<p align="center">
+  <b>Là một sinh viên Bách khoa đang cố gắng nâng cao CPA 📚</b>
 </p>
 
-<h3align="left">Ngôn ngữ và công cụ:</h3>
-<palign="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-origin.svg" <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
+---
 
+### 🚀 Giới thiệu về tôi
+- 🔭 Tôi là thành viên của **Đội Sinh viên Tình nguyện BK**
+- 💬 Hỏi tôi về bạn gái của tôi tên dễ thương là **HNH** ❤️
+- 📫 Liên hệ với tôi qua: [quangcbh06@gmail.com](mailto:quangcbh06@gmail.com)
+- ⚡ Sự thật thú vị: Tôi là một người rất hài hước!
+
+### 🛠 Công cụ & Kỹ năng thiết kế
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</p>
+
+### 📊 Thống kê GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuancbh06-max&show_icons=true&theme=radical)
